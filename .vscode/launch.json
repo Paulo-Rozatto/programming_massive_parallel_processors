@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug CUDA Host",
+        "type": "lldb",
+        "request": "launch",
+        "program": "${workspaceFolder}/output",
+        "args": [],
+        "cwd": "${workspaceFolder}"
+      }
+    ]
+  }

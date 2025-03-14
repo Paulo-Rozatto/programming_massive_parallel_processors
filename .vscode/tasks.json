@@ -1,0 +1,20 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build CUDA",
+      "command": "/usr/bin/nvcc",
+      "args": [
+        "-arch=sm_61",
+        "-o",
+        "${workspaceFolder}/output",
+        "${file}"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}
