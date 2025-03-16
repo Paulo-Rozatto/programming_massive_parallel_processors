@@ -6,6 +6,7 @@
       "command": "/usr/bin/nvcc",
       "args": [
         "-arch=sm_61",
+        "-Iinclude",
         "-o",
         "${workspaceFolder}/output",
         "${file}"
