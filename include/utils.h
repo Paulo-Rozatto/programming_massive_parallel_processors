@@ -11,7 +11,7 @@
     }                                                                          \
   } while (0)
 
-int divCeil(int numerator, int denominator) {
+inline int divCeil(int numerator, int denominator) {
   return (numerator + denominator - 1) / denominator;
 }
 
