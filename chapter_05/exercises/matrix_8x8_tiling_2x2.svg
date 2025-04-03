@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="85.960587mm"
+   height="86.965714mm"
+   viewBox="0 0 85.960587 86.965714"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="matrix_8x8_tiling_2x2.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.96346338"
+     inkscape:cx="305.66808"
+     inkscape:cy="29.061821"
+     inkscape:window-width="1920"
+     inkscape:window-height="946"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-6" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-25.188246,-76.809898)">
+    <rect
+       style="fill:#eceade;fill-opacity:1;stroke:none;stroke-width:1.61061;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect9210"
+       width="85.960587"
+       height="86.965714"
+       x="25.188246"
+       y="76.809898" />
+    <rect
+       style="fill:#009900;fill-opacity:1;stroke:none;stroke-width:0.76785;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect11527-4"
+       width="39.744144"
+       height="4.8027725"
+       x="25.933567"
+       y="128.21783" />
+    <rect
+       style="fill:#990000;fill-opacity:1;stroke:none;stroke-width:0.188728;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect14676-2-5"
+       width="2.401"
+       height="4.8027725"
+       x="77.998978"
+       y="128.22031" />
+    <rect
+       style="fill:#009900;fill-opacity:1;stroke:none;stroke-width:0.188728;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect11527-3-6-1-0-5"
+       width="2.401"
+       height="4.8027725"
+       x="75.597702"
+       y="128.21954" />
+    <rect
+       style="fill:#cccc00;fill-opacity:1;stroke:none;stroke-width:0.188728;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect14676-2-6"
+       width="2.401"
+       height="4.8027725"
+       x="73.065681"
+       y="128.22052" />
+    <rect
+       style="fill:#009900;fill-opacity:1;stroke:none;stroke-width:0.188728;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect11527-3-6-1-0-1"
+       width="2.401"
+       height="4.8027725"
+       x="70.664406"
+       y="128.21976" />
+    <rect
+       style="fill:#990000;fill-opacity:1;stroke:none;stroke-width:0.188728;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect14676-2"
+       width="2.401"
+       height="4.8027725"
+       x="78.000443"
+       y="123.28215" />
+    <rect
+       style="fill:#006767;fill-opacity:1;stroke:none;stroke-width:0.188728;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect11527-3-6-1-0"
+       width="2.401"
+       height="4.8027725"
+       x="75.599167"
+       y="123.28139" />
+    <rect
+       style="fill:#cccc00;fill-opacity:1;stroke:none;stroke-width:0.188728;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect14676"
+       width="2.401"
+       height="4.8027725"
+       x="73.064598"
+       y="123.28592" />
+    <rect
+       style="fill:#006767;fill-opacity:1;stroke:none;stroke-width:0.188728;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect11527-3-6-1"
+       width="2.401"
+       height="4.8027725"
+       x="70.663322"
+       y="123.28516" />
+    <rect
+       style="fill:#cccc00;fill-opacity:1;stroke:none;stroke-width:0.768177;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect11527-3"
+       width="4.8017325"
+       height="39.786659"
+       x="70.663506"
+       y="77.516418" />
+    <rect
+       style="fill:#006767;fill-opacity:1;stroke:none;stroke-width:0.76785;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect11527"
+       width="39.744144"
+       height="4.8027725"
+       x="25.935457"
+       y="123.28418" />
+    <g
+       inkscape:label="GridCartesian:X4:Y4"
+       transform="translate(25.803187,123.15339)"
+       id="g2195">
+      <g
+         inkscape:label="MajorXGridlines"
+         id="g2163">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 10,0 V 40"
+           inkscape:label="MajorXDiv1"
+           id="path2157" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 20,0 V 40"
+           inkscape:label="MajorXDiv2"
+           id="path2159" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 30,0 V 40"
+           inkscape:label="MajorXDiv3"
+           id="path2161" />
+      </g>
+      <g
+         inkscape:label="MajorYGridlines"
+         id="g2171">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,10 H 40"
+           inkscape:label="MajorYDiv1"
+           id="path2165" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,20 H 40"
+           inkscape:label="MajorYDiv2"
+           id="path2167" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,30 H 40"
+           inkscape:label="MajorYDiv3"
+           id="path2169" />
+      </g>
+      <g
+         inkscape:label="MinorXGridlines"
+         id="g2181">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 5,0 V 40"
+           inkscape:label="MinorXDiv0:1"
+           id="path2173" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 15,0 V 40"
+           inkscape:label="MinorXDiv1:1"
+           id="path2175" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 25,0 V 40"
+           inkscape:label="MinorXDiv2:1"
+           id="path2177" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 35,0 V 40"
+           inkscape:label="MinorXDiv3:1"
+           id="path2179" />
+      </g>
+      <g
+         inkscape:label="MinorYGridlines"
+         id="g2191">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 0,5 H 40"
+           inkscape:label="MinorXYiv0:1"
+           id="path2183" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 0,15 H 40"
+           inkscape:label="MinorXYiv1:1"
+           id="path2185" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 0,25 H 40"
+           inkscape:label="MinorXYiv2:1"
+           id="path2187" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 0,35 H 40"
+           inkscape:label="MinorXYiv3:1"
+           id="path2189" />
+      </g>
+      <rect
+         x="0"
+         y="0"
+         width="40"
+         height="40"
+         style="fill:none;stroke:#000000;stroke-width:0.264583"
+         inkscape:label="Border"
+         id="rect2193" />
+    </g>
+    <g
+       inkscape:label="GridCartesian:X4:Y4"
+       transform="translate(70.531747,123.15339)"
+       id="g2195-3">
+      <g
+         inkscape:label="MajorXGridlines"
+         id="g2163-6">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 10,0 V 40"
+           inkscape:label="MajorXDiv1"
+           id="path2157-7" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 20,0 V 40"
+           inkscape:label="MajorXDiv2"
+           id="path2159-5" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 30,0 V 40"
+           inkscape:label="MajorXDiv3"
+           id="path2161-3" />
+      </g>
+      <g
+         inkscape:label="MajorYGridlines"
+         id="g2171-5">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,10 H 40"
+           inkscape:label="MajorYDiv1"
+           id="path2165-6" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,20 H 40"
+           inkscape:label="MajorYDiv2"
+           id="path2167-2" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,30 H 40"
+           inkscape:label="MajorYDiv3"
+           id="path2169-9" />
+      </g>
+      <g
+         inkscape:label="MinorXGridlines"
+         id="g2181-1">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 5,0 V 40"
+           inkscape:label="MinorXDiv0:1"
+           id="path2173-2" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 15,0 V 40"
+           inkscape:label="MinorXDiv1:1"
+           id="path2175-7" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 25,0 V 40"
+           inkscape:label="MinorXDiv2:1"
+           id="path2177-0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 35,0 V 40"
+           inkscape:label="MinorXDiv3:1"
+           id="path2179-9" />
+      </g>
+      <g
+         inkscape:label="MinorYGridlines"
+         id="g2191-3">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 0,5 H 40"
+           inkscape:label="MinorXYiv0:1"
+           id="path2183-6" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 0,15 H 40"
+           inkscape:label="MinorXYiv1:1"
+           id="path2185-0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 0,25 H 40"
+           inkscape:label="MinorXYiv2:1"
+           id="path2187-6" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 0,35 H 40"
+           inkscape:label="MinorXYiv3:1"
+           id="path2189-2" />
+      </g>
+      <rect
+         x="0"
+         y="0"
+         width="40"
+         height="40"
+         style="fill:none;stroke:#000000;stroke-width:0.264583"
+         inkscape:label="Border"
+         id="rect2193-6" />
+    </g>
+    <rect
+       style="fill:#990000;fill-opacity:1;stroke:none;stroke-width:0.768177;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect21794"
+       width="4.8017325"
+       height="39.786659"
+       x="75.597549"
+       y="77.517326" />
+    <g
+       inkscape:label="GridCartesian:X4:Y4"
+       transform="translate(70.531747,77.433041)"
+       id="g2195-3-1">
+      <g
+         inkscape:label="MajorXGridlines"
+         id="g2163-6-8">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 10,0 V 40"
+           inkscape:label="MajorXDiv1"
+           id="path2157-7-7" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 20,0 V 40"
+           inkscape:label="MajorXDiv2"
+           id="path2159-5-9" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 30,0 V 40"
+           inkscape:label="MajorXDiv3"
+           id="path2161-3-2" />
+      </g>
+      <g
+         inkscape:label="MajorYGridlines"
+         id="g2171-5-0">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,10 H 40"
+           inkscape:label="MajorYDiv1"
+           id="path2165-6-2" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,20 H 40"
+           inkscape:label="MajorYDiv2"
+           id="path2167-2-3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,30 H 40"
+           inkscape:label="MajorYDiv3"
+           id="path2169-9-7" />
+      </g>
+      <g
+         inkscape:label="MinorXGridlines"
+         id="g2181-1-5">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 5,0 V 40"
+           inkscape:label="MinorXDiv0:1"
+           id="path2173-2-9" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 15,0 V 40"
+           inkscape:label="MinorXDiv1:1"
+           id="path2175-7-2" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 25,0 V 40"
+           inkscape:label="MinorXDiv2:1"
+           id="path2177-0-2" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 35,0 V 40"
+           inkscape:label="MinorXDiv3:1"
+           id="path2179-9-8" />
+      </g>
+      <g
+         inkscape:label="MinorYGridlines"
+         id="g2191-3-9">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 0,5 H 40"
+           inkscape:label="MinorXYiv0:1"
+           id="path2183-6-7" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 0,15 H 40"
+           inkscape:label="MinorXYiv1:1"
+           id="path2185-0-3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 0,25 H 40"
+           inkscape:label="MinorXYiv2:1"
+           id="path2187-6-6" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 0,35 H 40"
+           inkscape:label="MinorXYiv3:1"
+           id="path2189-2-1" />
+      </g>
+      <rect
+         x="0"
+         y="0"
+         width="40"
+         height="40"
+         style="fill:none;stroke:#000000;stroke-width:0.264583"
+         inkscape:label="Border"
+         id="rect2193-6-2" />
+    </g>
+    <g
+       inkscape:label="GridCartesian:X4:Y4"
+       transform="translate(25.803187,123.15339)"
+       id="g9030">
+      <g
+         inkscape:label="MajorXGridlines"
+         id="g8998">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 10,0 V 40"
+           inkscape:label="MajorXDiv1"
+           id="path8992" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 20,0 V 40"
+           inkscape:label="MajorXDiv2"
+           id="path8994" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 30,0 V 40"
+           inkscape:label="MajorXDiv3"
+           id="path8996" />
+      </g>
+      <g
+         inkscape:label="MajorYGridlines"
+         id="g9006">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,10 H 40"
+           inkscape:label="MajorYDiv1"
+           id="path9000" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,20 H 40"
+           inkscape:label="MajorYDiv2"
+           id="path9002" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           d="M 0,30 H 40"
+           inkscape:label="MajorYDiv3"
+           id="path9004" />
+      </g>
+      <g
+         inkscape:label="MinorXGridlines"
+         id="g9016">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 5,0 V 40"
+           inkscape:label="MinorXDiv0:1"
+           id="path9008" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 15,0 V 40"
+           inkscape:label="MinorXDiv1:1"
+           id="path9010" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 25,0 V 40"
+           inkscape:label="MinorXDiv2:1"
+           id="path9012" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 35,0 V 40"
+           inkscape:label="MinorXDiv3:1"
+           id="path9014" />
+      </g>
+      <g
+         inkscape:label="MinorYGridlines"
+         id="g9026">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 0,5 H 40"
+           inkscape:label="MinorXYiv0:1"
+           id="path9018" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 0,15 H 40"
+           inkscape:label="MinorXYiv1:1"
+           id="path9020" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 0,25 H 40"
+           inkscape:label="MinorXYiv2:1"
+           id="path9022" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.132292"
+           d="M 0,35 H 40"
+           inkscape:label="MinorXYiv3:1"
+           id="path9024" />
+      </g>
+      <rect
+         x="0"
+         y="0"
+         width="40"
+         height="40"
+         style="fill:none;stroke:#000000;stroke-width:0.264583"
+         inkscape:label="Border"
+         id="rect9028" />
+    </g>
+    <g
+       id="g21047"
+       style="fill:#525252;fill-opacity:1">
+      <path
+         style="fill:#525252;fill-opacity:1;fill-rule:evenodd;stroke:#ffff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+         d="m 72.935387,78.461857 0.12858,50.010533"
+         id="path20804"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#525252;fill-opacity:1;fill-rule:evenodd;stroke:#ffff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+         d="m 72.935387,77.570616 0.12858,46.267114"
+         id="path20806"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g20790">
+      <path
+         style="fill:#ff5555;fill-rule:evenodd;stroke:#00ffff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+         d="m 26.314384,125.62686 50.010534,-0.12858"
+         id="path19437"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#ff5555;fill-rule:evenodd;stroke:#00ffff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+         d="m 25.950158,125.62686 45.740094,-0.12858"
+         id="path2654"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       style="fill:#ff5555;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2-7)"
+       d="M 26.302884,130.51418 76.313418,130.3856"
+       id="path19437-6"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff5555;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2-7)"
+       d="M 25.938658,130.51418 71.678752,130.3856"
+       id="path2654-9"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#525252;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="M 77.86822,78.461857 77.9968,128.47239"
+       id="path21907"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#525252;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="M 77.86822,77.570616 77.9968,123.83773"
+       id="path21909"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
